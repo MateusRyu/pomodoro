@@ -1,0 +1,8 @@
+site_name: Pomodoro
+repo_url: https://github.com/Mateus-Ryu/pomodoro
+remote_name: Mateus-Ryu/pomodoro
+edit_uri: tree/main/docs
+
+theme:
+  name: material
+  language:  pt-BR
