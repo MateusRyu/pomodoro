@@ -6,3 +6,9 @@ edit_uri: tree/main/docs
 theme:
   name: material
   language:  pt-BR
+
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        paths: [pomodoro]
