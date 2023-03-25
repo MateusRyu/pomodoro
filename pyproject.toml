@@ -31,4 +31,4 @@ addopts = "--doctest-modules"
 
 [tool.isort]
 profile = "black"
-line_lenght = 79
+line_length = 79
