@@ -37,5 +37,5 @@ line_length = 79
 lint = "blue --check --diff . && isort --check --diff ."
 docs = "mkdocs serve"
 pre_test = "task lint"
-test = "pytest -s -x --cov=pomodoro -vv"
+test = "pytest -x --cov=pomodoro -vv"
 post_test = "coverage html"
