@@ -1,3 +1,8 @@
+## Ambiente virtual
+```shell
+poetry shell
+```
+
 ## Documentação
 
 Para servir a documentação:
